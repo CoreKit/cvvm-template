@@ -1,6 +1,6 @@
 # CollectionView-View-Model template
 
-Swift template for iOS projects using the [CVVM](https://github.com/CoreKit/CVVM) library.
+Swift template for iOS projects using the [CollectionView](https://github.com/CoreKit/CollectionView) library.
 
 ## Dependencies
 
