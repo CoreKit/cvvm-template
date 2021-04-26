@@ -1,5 +1,5 @@
 //
-//  {module}Model.swift
+//  {Name}Model.swift
 //  {project}
 //
 //  Created by {author} on {date}.
@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct {module}Model {
+struct {Name}Model {
 
     let example: String
 

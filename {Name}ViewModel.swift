@@ -1,5 +1,5 @@
 //
-//  {module}ViewModel.swift
+//  {Name}ViewModel.swift
 //  {project}
 //
 //  Created by {author} on {date}.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class {module}ViewModel: ViewModel<{module}Cell, {module}Model> {
+final class {Name}ViewModel: ViewModel<{Name}Cell, {Name}Model> {
 
     override var height: CGFloat {
         44

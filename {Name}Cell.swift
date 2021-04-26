@@ -1,5 +1,5 @@
 //
-//  {module}Cell.swift
+//  {Name}Cell.swift
 //  {project}
 //
 //  Created by {author} on {date}.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class {module}Cell: Cell {
+final class {Name}Cell: Cell {
 
     @IBOutlet weak var exampleLabel: UILabel!
 
